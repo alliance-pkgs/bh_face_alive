@@ -1,0 +1,19 @@
+{
+  "name": "bh_face_alive",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "bh_face_alive",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "UNLICENCED"
+}

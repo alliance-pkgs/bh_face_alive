@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+    <string name="app_name">STBH_Face</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    <string name="common_detecting">""</string>
+    <string name="common_face_too_far">"Please move the phone near your face"</string>
+    <string name="common_face_too_close">"Please move the phone away from your face"</string>
+    <string name="common_tracking_missed">"Please move your face into the box"</string>
+    <string name="common_txt_back">""</string>
+    <string name="common_blink"></string>
+    <string name="common_mouth"></string>
+    <string name="common_nod"></string>
+    <string name="common_yaw"></string>
+    <string name="txt_blink">Blink your eyes</string>
+    <string name="txt_mouth">Open your mouth</string>
+    <string name="txt_nod">Nod your head</string>
+    <string name="txt_yaw">Shake your head</string>
+
+</resources>
